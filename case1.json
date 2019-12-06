@@ -1,0 +1,8 @@
+{
+    "table_files": ["case1/R0.txt", "case1/R1.txt", "case1/R2.txt", "case1/R3.txt"],
+    "table_keys": [[], ["y"], ["z"], ["z"]],
+    "traverse_order": ["2", "3", "1", "0"],
+    "children": {"0": ["1"], "1": ["2", "3"], "2": [], "3": []},
+    "output_ordered_attributes": ["weight", "x", "y", "z", "u"],
+    "value_num": "2"
+}

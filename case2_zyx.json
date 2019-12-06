@@ -1,0 +1,8 @@
+{
+    "table_files": ["roadNet/roadNet-CA_R0.txt", "roadNet/roadNet-CA_R1.txt"],
+    "table_keys": [[], ["x"]],
+    "traverse_order": ["1", "0"],
+    "children": {"0": ["1"], "1": []},
+    "output_ordered_attributes": ["z", "y", "x"],
+    "value_num": "100"
+}
