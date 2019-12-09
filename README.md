@@ -87,4 +87,4 @@ Or, you can test all of them at one time
 ```
 python3 test_all.py
 ```
-Furthermore, you can specify our own ranking function by following the above procedure.
+Furthermore, you can specify your own ranking function by following the above procedure.
